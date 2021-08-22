@@ -1,1 +1,2 @@
-print ("main 1 ")
+for i in range (5):
+    print ("main 1 ")
