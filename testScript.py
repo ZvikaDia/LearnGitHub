@@ -10,3 +10,5 @@ print ("Andy duprain from  main 4")
 print ("This is my main ")
 
 print ("This is my main ") * 2
+
+print ("This is my main ") * haam
