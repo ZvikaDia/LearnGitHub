@@ -1,6 +1,7 @@
 print ("main 1 ")
 print ("MyName is Lior")
 
+<<<<<<< HEAD
 print ("Andy duprain from main - 2 ")
 
 print ("I add this line ")
@@ -10,3 +11,10 @@ print ("This is my other branch")
 print ("This is my other branch") * 2
 
 print ("This is my other branch") * 3
+=======
+print ("Andy duprain from  main 4")
+
+print ("This is my main ")
+
+print ("This is my main ") * 2
+>>>>>>> main
