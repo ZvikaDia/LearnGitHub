@@ -7,4 +7,6 @@ print ("I add this line ")
 
 print ("This is my other branch")
 
-print ("This is my other branch") * 2 
+print ("This is my other branch") * 2
+
+print ("This is my other branch") * 3
