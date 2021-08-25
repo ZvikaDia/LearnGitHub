@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-moshit in main
-=======
-Any ashlach lach baprati
->>>>>>> myOtherBranch
+this is my main
